@@ -60,7 +60,7 @@ npm --version
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/react-calculator.git
+git clone https://github.com/SoumyadipDutta1004/react-calculator.git
 cd react-calculator
 ```
 
