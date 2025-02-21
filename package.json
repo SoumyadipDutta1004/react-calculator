@@ -1,6 +1,6 @@
 {
   "name": "calculator",
-  "homepage": "https://soumyadipdutta1004.github.io/react-calculator",
+  "homepage": "https://SoumyadipDutta1004.github.io/react-calculator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
+    "predeploy": "bun run build",
     "deploy": "gh-pages -d build" 
   },
   "dependencies": {
