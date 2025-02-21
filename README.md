@@ -4,7 +4,7 @@ A simple calculator web application built using **React and Tailwind CSS**.
 
 
 ## 📸 Screenshot
-![Calculator UI](src/assets/CalculatorUi.png)
+[<img src="src/assets/CalculatorUi.png" alt="Calculator UI" width="300"/>]()
 
 ## 🚀 Features
 - Basic arithmetic operations (+, -, ×, ÷)
